@@ -1,0 +1,6 @@
+{
+  "name": "Zukko Bolalar - Boshlang'ich Sinflar O'quv Portali",
+  "description": "1-5-sinf o'quvchilari uchun qiziqarli darslar, mini-testlar, interaktiv o'yinlar va rag'batlantiruvchi yulduzlar tizimi bilan boyitilgan ta'limiy platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
